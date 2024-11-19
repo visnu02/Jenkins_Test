@@ -1,6 +1,7 @@
+public class Main {
+    public static void main(String[] ar) {
 
-public class Main{
-
-System.out.println("Hey! It wworked .");
-
+        System.out.println("Hey! It's working . .");
+        
+    }
 }
